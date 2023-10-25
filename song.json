@@ -1,0 +1,32 @@
+{
+    "song1" : {
+       "song" : "Iyakin Talaga",
+       "artist" : "Hev Abi",
+       "genre" : "RAP",
+       "link": "https://youtu.be/3LZuD7AgS-g?si=JC6UB6MUCwfitSai"
+    },
+    "song2" : {
+        "song" : "Father Stretch My Hands Pt. 1",
+        "artist" : "Kanye",
+        "genre" : "Hip-hop",
+        "link": "hhttps://youtu.be/wuO4_P_8p-Q?si=9WwKGvKNB9BGpJTy"
+     },
+     "song3" : {
+        "song" : "baby you're worth it",
+        "artist" : "Kina ft. shiloh",
+        "genre" : "Lo-fi",
+        "link": "https://youtu.be/LaCd3YrEteE?si=_yiO1pU6lYBZHL-P"
+     },
+     "song4" : {
+        "song" : "Enter Sandman",
+        "artist" : "Metallica",
+        "genre" : "Hard Rock",
+        "link": "https://youtu.be/CD-E-LDc384?si=RfSrbbnRQvSFMGGM"
+     },
+     "song5" : {
+        "song" : "Avalanche",
+        "artist" : "Bring me the horizon",
+        "genre" : "metalcore",
+        "link": "https://www.youtube.com/watch?v=zI383uEwA6Q&ab_channel=KendrickLamarVEVO"
+     }
+ }
